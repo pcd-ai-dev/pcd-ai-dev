@@ -1,4 +1,4 @@
-# Pierre Cosmao-Dumanoir
+# Pierre Cosmao Dumanoir
 
 Développeur PHP/JS autodidacte depuis 25 ans,
 en reconversion active vers le Prompt Engineering et l'intégration IA.
